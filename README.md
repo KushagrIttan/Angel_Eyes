@@ -1,0 +1,1 @@
+An intelligent finger-count detection system powered by computer vision. Built using React.js with a sleek dark mode UI, Angel Eyes showcases real-time hand tracking and gesture recognition, offering a fun yet practical demonstration of human-computer interaction using machine learning and OpenCV.
